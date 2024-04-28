@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['fire', 'smoke']
+
+roboflow:
+  workspace: vishal-sharma-hfh1k
+  project: fire-smoke-detection-1oemc
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/vishal-sharma-hfh1k/fire-smoke-detection-1oemc/dataset/3
