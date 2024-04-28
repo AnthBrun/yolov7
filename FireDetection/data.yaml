@@ -1,6 +1,6 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: C:/Users/Anthony/Documents/yolov7/FireDetection/train/images
+val: C:/Users/Anthony/Documents/yolov7/FireDetection/valid/images
+test: C:/Users/Anthony/Documents/yolov7/FireDetection/test/images
 
 nc: 2
 names: ['fire', 'smoke']
