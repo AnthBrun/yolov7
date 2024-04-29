@@ -1,0 +1,6 @@
+train: D:\Projekte\bei_lu\yolov7/cfg/train/images
+val: D:\Projekte\bei_lu\yolov7/cfg/valid/images
+test: D:\Projekte\bei_lu\yolov7/cfg/test/images
+
+nc: 1
+names: ['Fall-Detected']
